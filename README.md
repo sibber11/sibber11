@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibber11" alt="sibber11" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, Nuxt**
+- 🌱 I’m currently learning **Rust, Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sibber11](https://github.com/sibber11)
 
